@@ -3,7 +3,7 @@ package com.easyms.accounts.dto;
 import lombok.Data;
 
 @Data
-public class CostumerDto {
+public class CustomerDto {
 
     private String name;
 
