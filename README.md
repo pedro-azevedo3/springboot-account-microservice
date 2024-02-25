@@ -12,13 +12,12 @@ Este microservice tem propósito de gerenciar contas de uma aplicação.
 
 Todos os pré-requisitos necessários para execução do projeto deverão ser devidamente instalados na máquina local do desenvolvedor.
 
-### Pré-requisitos ⚙️
+### Requirements ⚙️
 
 - [IntelliJ Idea](https://www.jetbrains.com/idea/)
 - [JDK17](https://www.oracle.com/java/technologies/downloads/)
-- [MySQL](https://www.mysql.com/)
 
-## Dependências 📁
+## Dependencies 📁
 
 - Lombok
 - H2 Database
@@ -27,6 +26,6 @@ Todos os pré-requisitos necessários para execução do projeto deverão ser de
 - Spring Dev Tools (apenas em ambiente de desenvolvimento)
 - Spring Validation
 
-## Autor 🧑‍💻
+## Author 🧑‍💻
 
 - [Pedro Azevedo Teixeira](https://github.com/pedro-azevedo3)
